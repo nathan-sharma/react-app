@@ -33,7 +33,7 @@ function Info() {
             {/* RIGHT — Image */}
             <div className="flex-1 flex justify-center md:justify-center">
               <img 
-                src="/nathan.png"
+                src="nathan.png"
                 alt="Nathan Sharma"
                 className="w-full max-w-sm rounded-lg shadow-lg object-cover"
               />

@@ -63,7 +63,7 @@ function App() {
             </div>
             <div className="flex-shrink-0">
               <img
-                src="/tutoring-image.JPG"
+                src="tutoring-image.JPG"
                 alt="Tutoring photo"
                 className="w-full max-w-sm rounded-lg shadow-lg object-cover"
               />

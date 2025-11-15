@@ -11,7 +11,7 @@ function Navbar() {
         <div className={`flex items-center justify-center md:justify-start space-x-2`}>
           <Link to="/">
             <img
-              src="/riemann-math-logo.png"
+              src="riemann-math-logo.png"
               alt="Riemann Math Logo"
               className="h-10" // slightly bigger logo
             />
