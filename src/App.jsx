@@ -113,7 +113,7 @@ function App() {
                     </p>
 
                     <button
-                      onClick={() => navigate('/info-and-about')}
+                      onClick={() => navigate('/about')}
                       className="w-full md:w-auto font-bold py-2 px-4 rounded mt-6 bg-black text-white font-semibold rounded-lg shadow hover:bg-gray-300 hover:text-black transition"
                     >
                       Learn More
