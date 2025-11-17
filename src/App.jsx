@@ -24,20 +24,20 @@ function App() {
   const navigate = useNavigate();
   const cards = [
     {
-      title: "Introductory",
-      date: "Dec 30, 2025 - Jan 4, 2026. 7:00 - 8:30 PM CST daily.",
+      title: "Introductory", 
+      date: "Jan 4 - Jan 9, 2026. 7:00 - 8:30 PM CST daily.",
       description:
         "Introduction to combinatorics, geometry, advanced algebra, & probability. This class covers essential concepts. A good choice for anyone getting started with competition math."
     },
     {
       title: "Intermediate",
-      date: "Jan 5 - Jan 10, 2026. 7:00 - 8:30 PM CST daily.",
+      date: "Jan 10 - Jan 15, 2026. 7:00 - 8:30 PM CST daily.",
       description:
         "Intermediate combinatorics, geometry, probability, complex numbers, trigonometry, introduction to number theory and advanced inequalities. Great for students aiming to reach or surpass the AIME qualification threshold."
     },
     {
       title: "Advanced",
-      date: "Jan 11 - Jan 17, 2026. 7:00 - 8:30 PM CST daily.",
+      date: "Jan 16 - Jan 22, 2026. 7:00 - 8:30 PM CST daily.",
       description:
         "Advanced combinatorics, probability, geometry, number theory, algebra, complex numbers, logarithms, and more. Great for strong AIME qualifiers and AMC 12 high scorers seeking deeper problem-solving mastery."
     }

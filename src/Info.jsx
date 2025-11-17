@@ -48,7 +48,7 @@ function Info() {
             Classes
           </h1>
           <h2 className="text-lg text-gray-900 mb-4">
-            2026 winter classes are virtual and will be hosted on Zoom beginning December 30th, 2025. Each class will last for 90 minutes, and homework will be assigned via Google Classroom. You can find more information on our classes below. Sessions are limited to a maximum of 30 students per class. <span className="font-bold">If you complete at least four homeworks and attend at least five days of lessons, you will receive a certificate of course completion. </span> Not sure which class is right for you? Take this year’s{' '}
+            2026 early winter classes are virtual and will be hosted on Zoom beginning January 4th, 2026. Each class will last for 90 minutes, and homework will be assigned via Google Classroom. You can find more information on our classes below. Sessions are limited to a maximum of 30 students per class. <span className="font-bold">If you complete at least four homeworks and attend at least five days of lessons, you will receive a certificate of course completion. </span> Not sure which class is right for you? Take this year’s{' '}
             <a
               href="https://forms.gle/yLL79Dyuw5TWMgRw8"
               target="_blank"
@@ -67,7 +67,7 @@ function Info() {
         {/* New Subsection Below Classes */}
         <div className="max-w-6xl mx-auto mb-16">
           <h2 className="text-2xl font-bold text-black mb-4 text-left">
-            Introductory Advanced (Dec 30 - Jan 4)
+            Introductory Advanced (Jan 4 - 9)
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
@@ -100,7 +100,7 @@ function Info() {
         </div>
   <div className="max-w-6xl mx-auto mb-16">
           <h2 className="text-2xl font-bold text-black mb-4 text-left">
-            Intermediate Advanced (Jan 5 - 10)
+            Intermediate Advanced (Jan 10 - 15)
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
@@ -131,7 +131,7 @@ function Info() {
         </div>
          <div className="max-w-6xl mx-auto mb-16">
           <h2 className="text-2xl font-bold text-black mb-4 text-left">
-           Advanced (Jan 11 - 17)
+           Advanced (Jan 16 - 22)
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
