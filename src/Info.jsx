@@ -22,7 +22,7 @@ function Info() {
             {/* LEFT — Text */}
             <div className="flex-1 text-left">
               <p className="text-lg leading-relaxed text-gray-900 mb-4">
-                Hi, I’m Nathan Sharma! I first got involved in competitive math when I was in sixth grade. I have competed in the AMC 8, 10, and 12 and represented my school in the Houston MATHCOUNTS Chapter. Though I was enthusiastic about competitive math, I never knew where to start with my preparation. Resources offered online were vague, and competiton math classes costed hundreds if not thousands of dollars. I created Riemann Math to give students what I didn’t have – accessible, high quality math tutoring.
+                Hi, I’m Nathan Sharma! I first got involved in competitive math when I was in sixth grade. I have competed in the AMC 8, 10, and 12 and represented my school in the Houston MATHCOUNTS Chapter. Though I was enthusiastic about competitive math, I never knew where to start with my preparation. Resources offered online were vague, and competiton math classes costed hundreds if not thousands of dollars. I created Riemann Math to give students what I didn’t have – accessible, high quality math tutoring. I love math, and I wish to share my passion with other young students through this organization.
               </p>
 
               <p className="text-lg leading-relaxed text-gray-900">
@@ -58,7 +58,6 @@ function Info() {
               diagnostic exam
             </a>! We will have your test scored in a week or less and provide a detailed report on your recommended placement.
 
-         <h6 className = "mt-4"> Note: this information page is centered around AMC/AIME preparation, but our classes are a valuable resource for almost any high school math competition.</h6>
           <h6 className = "mt-4"> If you have any questions, feel free to contact us at riemann.math14@gmail.com.</h6> 
           </h2>
       
@@ -71,7 +70,8 @@ function Info() {
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
-          <p>This class will cover foundational math concepts that are almost always tested on the AMC 8, 10 and AMC 12. Students should be familiar with basic algebra and geometry.</p>
+            <p><span className = "font-bold">Prerequisites:</span> Students should be familiar with basic algebra and geometry.</p>
+          <p><span className = "font-bold">Competition math students:</span> This class will cover foundational math concepts that are almost always tested on the AMC 8, 10 and AMC 12.</p>
 
 ​
 
@@ -104,7 +104,8 @@ function Info() {
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
-          <p>This class will delve into more advanced topics typically covered on the later AMC 10/12 questions and early AIME questions. A good bridge between AMC and AIME preparation.</p>
+            <p><span className = "font-bold">Prerequistes:</span> Students should be familiar with algebra, geometry, and the basics of probability and trigonometry.</p>
+          <p className = "mb-10"><span className = "font-bold">Competition math students:</span> This class will delve into more advanced topics typically covered on the later AMC 10/12 questions and early AIME questions. A good bridge between AMC and AIME preparation.</p>
 
 <p className = "mt-4">​Day 1: Modular Arithmetic Intro</p>
 
@@ -135,7 +136,8 @@ function Info() {
           </h2>
 
           <div className="text-gray-900 text-lg leading-relaxed">
-          <p>This class will cover advanced concepts typically tested on the mid/late AIME questions and late AMC 12 questions. Students should have AMC 12 scores consistently meeting or exceeding the AIME cutoff. </p>
+            <p className = "mb-1"><span className = "font-bold">Prerequistes:</span> Students should have a solid understanding of modular arithmetic, combinatorics, trigonometry, geometry, and probability. </p>
+          <p className = "mb-10"><span className = "font-bold">Competition math students:</span> This class will cover advanced concepts typically tested on the mid/late AIME questions and late AMC 12 questions. Students should have AMC 12 scores consistently meeting or exceeding the AIME cutoff. </p>
 
 <p className = "mt-4">Day 1: Intermediate Modular Arithmetic, Euler's Totient Function, Fermat's Little Theorem, Binomial Theorem</p>
 

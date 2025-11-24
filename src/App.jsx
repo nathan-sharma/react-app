@@ -27,19 +27,19 @@ function App() {
       title: "Introductory", 
       date: "Jan 4 - Jan 9, 2026. 7:00 - 8:30 PM CST daily.",
       description:
-        "Introduction to combinatorics, geometry, advanced algebra, & probability. This class covers essential concepts. A good choice for anyone getting started with competition math."
+        "Introduction to combinatorics, geometry, advanced algebra, & probability. This class covers essential mathematical concepts and would be an excellent starting point for math competition preparation!"
     },
     {
       title: "Intermediate",
       date: "Jan 10 - Jan 15, 2026. 7:00 - 8:30 PM CST daily.",
       description:
-        "Intermediate combinatorics, geometry, probability, complex numbers, trigonometry, introduction to number theory and advanced inequalities. Great for students aiming to reach or surpass the AIME qualification threshold."
+        "Intermediate combinatorics, geometry, probability, complex numbers, trigonometry, introduction to number theory and advanced inequalities. Also a great resource for intermediate AMC 10/12 preparation!"
     },
     {
       title: "Advanced",
       date: "Jan 16 - Jan 22, 2026. 7:00 - 8:30 PM CST daily.",
       description:
-        "Advanced combinatorics, probability, geometry, number theory, algebra, complex numbers, logarithms, and more. Great for strong AIME qualifiers and AMC 12 high scorers seeking deeper problem-solving mastery."
+        "Advanced combinatorics, probability, geometry, number theory, algebra, complex numbers, logarithms, and more. Especially great for strong AIME qualifiers and AMC 12 high scorers seeking deeper problem-solving mastery."
     }
   ];
 
@@ -60,7 +60,7 @@ function App() {
             {/* Left text */}
             <div className="flex-1">
               <p className="text-left text-gray-900 text-xl md:text-3xl leading-snug md:leading-relaxed font-sans">
-                Riemann Math is a <span className="font-bold">completely free</span> competitive math tutoring service based in Katy, Texas made for young students preparing for math competitions. Our curriculum covers concepts tested on the AMC 8s, 10s, 12s, MATHCOUNTS, AIMEs, and more!
+                Riemann Math is a <span className="font-bold">completely free</span> math tutoring service based in Katy, Texas made for young students who wish to further explore their interest in math. Our curriculum covers a wide range of advanced concepts, many of which are not taught in the standard high school curriculum.
               </p>
             </div>
 
