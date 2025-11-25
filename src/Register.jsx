@@ -34,8 +34,15 @@ function Register() {
         <h1 className="text-3xl font-bold text-black mb-8 text-center">
           Registration Portal
         </h1>
-        <p className = " mb-5 text-center">The registration portal for winter classes will close on   <span className="font-bold"> January 3rd, 2026 at 6:00 PM CST</span>. Please make sure you have reviewed all information on our classes in the About page before registering. After registering, you will receive an email with the link to our Zoom meeting and Google Classroom, as well as detailed information on the course(s) you signed up for.</p>
-
+        <p className = " mb-5 text-center">The registration portal for winter classes will close on   <span className="font-bold"> January 3rd, 2026 at 6:00 PM CST</span>. Please make sure you have reviewed all information on our classes in the About page before registering. After registering, you will receive an email with the link to our Zoom meeting and Google Classroom, as well as detailed information on the course(s) you signed up for.</p> 
+ <a
+              href="https://form.jotform.com/252498121605153"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mb-5 text-xs text-center underline text-black hover:text-gray-600"
+            >
+               Click here to open the portal in an external browser.
+            </a>
         {/* JotForm iframe */}
         <iframe
           id="JotFormIFrame-252498121605153"
